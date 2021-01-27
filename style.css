@@ -14,12 +14,11 @@ body {
     background-repeat: no-repeat;
     width: 100%;
     min-height:189px;
-    opacity: 0.35;
+    opacity: 50%;
 }
 
 #bannertext{
-    position:absolute;
-    color: white;
+    color: red;
     font-size: 20pt;
     font-family: 'Bitter';
     top: 50%;
