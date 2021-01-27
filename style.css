@@ -22,7 +22,9 @@ vertical-align:top;
 
 #bannerText{
     position:absolute;
-    top:20px;
-    left:10px;
-    background:red;
+    color: white;
+    font-family: 'Bitter';
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
