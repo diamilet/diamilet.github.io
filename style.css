@@ -4,7 +4,7 @@ text-align: center;
 }
 
 #banner {
-    background:url('cropped-hurricane-banner_00.jpg');
+    background:url("cropped-hurricane-banner_00.jpg") repeat;
     width:100%;
     min-height:189px;
 }
