@@ -12,6 +12,5 @@ body {
 #banner {
     background:url('./img/cropped-hurricane-banner_00.jpg');
     background-repeat: no-repeat;
-    width:100%;
     min-height:189px;
 }
