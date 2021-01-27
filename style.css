@@ -14,6 +14,7 @@ body {
     background-repeat: no-repeat;
     width: 100%;
     min-height:189px;
+    opacity: 0.35;
 }
 
 #bannertext{
