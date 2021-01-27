@@ -8,10 +8,6 @@ body {
     font-size: 11pt;
 }
 
-img{
-vertical-align:top;
-}
-
 #banner {
     background:url('./img/cropped-hurricane-banner_00.jpg');
     background-size: cover;
@@ -20,11 +16,13 @@ vertical-align:top;
     min-height:189px;
 }
 
-#bannerText{
+#bannertext{
     position:absolute;
     color: white;
+    font-size: 20pt;
     font-family: 'Bitter';
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background:transparent;
 }
