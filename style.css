@@ -3,6 +3,10 @@ color: orange;
 text-align: center;
 }
 
+body {
+    font-family: 'Bitter';font-size: 22px;
+}
+
 #banner {
     background:url('./img/cropped-hurricane-banner_00.jpg');
     width:100%;
