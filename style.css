@@ -9,7 +9,7 @@ body {
 }
 
 .banner {
-    position: absolute;
+    position: relative;
     color: red;
     font-size: 22pt;
     z-index: 5;
@@ -23,6 +23,7 @@ body {
     background:url('./img/cropped-hurricane-banner_00.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    position: absolute;
     width: 100%;
     min-height:189px;
     opacity: 50%;
