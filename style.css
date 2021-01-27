@@ -8,16 +8,18 @@ body {
     font-size: 11pt;
 }
 
-#banner {
+.banner {
+    color: white;
+    font-size: 22pt;
+     z-index: 1;
+}
+
+.banner .bg{
     background:url('./img/cropped-hurricane-banner_00.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     min-height:189px;
-    opacity: 30%;
-}
-
-#bannerText{
-    color: white;
-    font-size: 11pt;
+    opacity: 50%;
+    z-index: -1;
 }
