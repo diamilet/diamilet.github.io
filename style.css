@@ -8,23 +8,54 @@ body {
     font-size: 11pt;
 }
 
-.banner {
-    position: relative;
-    color: red;
-    font-size: 22pt;
-    z-index: 5;
-    font-family: 'Bitter';
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+header{   
+    overflow: hidden;
 }
 
-.banner .bg{
-    background:url('./img/cropped-hurricane-banner_00.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    min-height:189px;
-    opacity: 30%;
-    z-index: -1;
+#top-header{
+         
+    text-align: center;
+    height: 60px;
+}
+
+/******* Navigation Menu *******/
+
+#menu{
+    float: right;
+    width: 70%;
+    height: 100%;
+    margin: none;
+}
+
+#menu ul{
+    text-align: center;
+    float: right;
+    margin: none;
+    background: #000000;
+}
+
+#menu li{
+    display: inline-block;
+    padding: none;
+    margin: none;
+}
+
+#menu li a, #menu li span{
+    display: inline-block;
+    padding: 0em 1.5em;
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 60px;
+}
+
+#menu li a{     
+    color: #FFF;
+}
+
+#menu li:hover a, #menu li span{
+    background: #FFF;
+    color: #0074D9;
+    border-left: 1px solid #0074D9;
+    text-decoration: none;
 }
