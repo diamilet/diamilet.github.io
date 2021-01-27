@@ -10,7 +10,7 @@ body {
 
 .banner {
     position: absolute;
-    color: white;
+    color: red;
     font-size: 22pt;
     z-index: 5;
     font-family: 'Bitter';
