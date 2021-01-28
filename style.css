@@ -19,7 +19,6 @@ header{
 
 #top-header{      
     text-align: center;
-    height: 60px;
 }
 
 /******* Navigation Menu *******/
@@ -46,16 +45,15 @@ header{
     margin: 0;
 }
 
-@media only screen and (min-width: 768px) {#menu li a, #menu li span{
+#menu li a, #menu li span{
     display: inline-block;
     padding: 0em 1.5em;
     text-decoration: none;
     font-weight: 600;
     font-family: 'Bitter';
     text-transform: uppercase;
-    line-height: 60px;
     font-size: 1.5vw;
-    }}
+    }
 
 #menu li a{     
     color: #FFF;
