@@ -68,7 +68,7 @@ header{
 
 /******* Banner *******/
 #header-image-menu{ 
-    top: 0px; 
+    bottom: 15px; 
     position: relative; 
 } 
 
