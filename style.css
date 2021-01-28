@@ -83,7 +83,7 @@ header{
     top: 60%; 
     left: 60%; 
     font-family: 'Bitter'; 
-    color: #000; 
+    color: red; 
     transform: translate(-30%, -30%); 
     text-align: center; 
 } 
