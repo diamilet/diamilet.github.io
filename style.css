@@ -54,6 +54,7 @@ header{
     font-family: 'Bitter';
     text-transform: uppercase;
     line-height: 60px;
+    font-size: 1vw;
 }
 
 #menu li a{     
