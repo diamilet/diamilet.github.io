@@ -48,7 +48,7 @@ header{
 
 #menu li a, #menu li span{
     display: inline-block;
-    padding: 0vw 0.3vw;
+    padding: 0vw 1vw;
     text-decoration: none;
     font-weight: bold;
     font-family: 'Bitter';
