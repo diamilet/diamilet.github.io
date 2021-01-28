@@ -1,5 +1,5 @@
 h1 {
-color: orange;
+color: red;
 text-align: center;
 }
 
@@ -28,7 +28,7 @@ header{
 
 #menu ul{
     text-align: center;
-    float: right;
+    float: center;
     margin: none;
     background: #000000;
 }
