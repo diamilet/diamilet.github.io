@@ -84,9 +84,9 @@ header{
     font-family: 'Bitter';
     font-size: 30pt;
     font-weight: bold;
-    color: white; 
+    color: black; 
     transform: translate(-50%, -50%); 
     text-align: center;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-color: white;
 } 
