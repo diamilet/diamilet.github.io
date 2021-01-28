@@ -87,6 +87,6 @@ header{
     color: black; 
     transform: translate(-50%, -50%); 
     text-align: center;
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: thin;
     -webkit-text-stroke-color: white;
 } 
