@@ -82,8 +82,10 @@ header{
     top: 50%; 
     left: 50%; 
     font-family: 'Bitter';
-    font-size: 22pt;
-    color: blue; 
+    font-size: 24pt;
+    color: white; 
     transform: translate(-50%, -50%); 
-    text-align: center; 
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 } 
