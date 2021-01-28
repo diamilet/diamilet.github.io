@@ -34,15 +34,15 @@ header{
 #menu ul{
     text-align: center;
     float: center;
-    padding: none;
-    margin: none;
+    padding: 0;
+    margin: 0;
     background: #000000;
 }
 
 #menu li{
     display: inline-block;
-    padding: none;
-    margin: none;
+    padding: 0;
+    margin: 0;
 }
 
 #menu li a, #menu li span{
