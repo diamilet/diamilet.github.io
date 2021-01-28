@@ -87,8 +87,8 @@ header{
     color: black; 
     transform: translate(-50%, -50%); 
     text-align: center;
-    text-shadow: -1px 1px 0 #A0A0A0,
-                 1px 1px 0 #A0A0A0,
-                 1px -1px 0 #A0A0A0,
-                 -1px -1px 0 #A0A0A0;
+    text-shadow: -1px 1px 0 #BEBEBE,
+                 1px 1px 0 #BEBEBE,
+                 1px -1px 0 #BEBEBE,
+                 -1px -1px 0 #BEBEBE;
 } 
