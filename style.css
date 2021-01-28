@@ -34,6 +34,7 @@ header{
 #menu ul{
     text-align: center;
     float: center;
+    padding: none;
     margin: none;
     background: #000000;
 }
@@ -46,7 +47,7 @@ header{
 
 #menu li a, #menu li span{
     display: inline-block;
-    padding: 0em 0em;
+    padding: 0em 1.5em;
     text-decoration: none;
     font-weight: 600;
     font-family: 'Bitter';
