@@ -18,6 +18,8 @@ body {
 }
 
 / ******* Center image ********/ 
+.container{width:100%}
+
 img.centered {
   position: relative;
   display: block;
