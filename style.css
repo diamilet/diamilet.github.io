@@ -14,7 +14,7 @@ body {
 }
 
 header{   
-    overflow: visible;
+    overflow: scroll;
 }
 
 #top-header{      
