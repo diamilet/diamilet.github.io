@@ -21,8 +21,7 @@ body {
 #aligncenter {
   display: inline-block;
   text-align: center; 
-  margin-left:auto;
-  margin-right:auto;
+  margin:0px auto;
 }
 
 /******* Navigation Menu *******/
