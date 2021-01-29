@@ -8,6 +8,10 @@ h2 {
     padding: 0;
 }
 
+p {
+    font-size: 3vw; 
+}
+
 body {
     font-family: 'Helvetica';
 }
