@@ -19,9 +19,8 @@ body {
 
 / ******* Center ********/ 
 #align-center{
-  display: inline-block;
+  width: 100%; 
   text-align: center; 
-  margin:0px auto;
 }
 
 /******* Navigation Menu *******/
