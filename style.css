@@ -34,14 +34,6 @@ body {
   font-size: 17px;
 }
 
-/ ******* Center ********/ 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 .topnav a:hover {
   background-color: #FFF;
   color: black;
@@ -105,3 +97,11 @@ body {
                  1px -1px 0 #BEBEBE,
                  -1px -1px 0 #BEBEBE;
 } 
+
+/ ******* Center ********/ 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
