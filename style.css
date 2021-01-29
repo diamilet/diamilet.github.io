@@ -14,9 +14,9 @@ body {
 
 
 /******* Navigation Menu *******/
-.topnav {      
-    overflow: hidden;
-    background-color: #000;
+.topnav {
+  overflow: hidden;
+  background-color: #000;
 }
 
 .topnav a {
