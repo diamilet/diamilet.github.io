@@ -1,43 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-  
-<link rel="stylesheet" type="text/css" href="style.css">
-<link href='https://fonts.googleapis.com/css?family=Bitter' rel='stylesheet'>
-
-<!-- Header Navigation Menu -->
-<header>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <div id="top-header">
-    <nav>
-          <div id="menu">
-            <ul>
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Research</a></li>
-                <li><a href="#">Leadership</a></li>
-                <li><a href="#">Resources</a></li>
-                <li><a href="#">CV</a></li>
-            </ul>
-          </div> 
-        </nav>
-  </div>
-  <div id="header-image-menu"> 
-    <img src="./img/cropped-hurricane-banner_00.jpg"> 
-        <h2 id = "image-text"> 
-           Diamilet (Diamy) Perez-Betancourt
-        </h2> 
-  </div>
-</header>
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport"
      content="width=device-width, initial-scale=1, user-scalable=yes">
- 
+  <link rel="stylesheet" type="text/css" href="style.css">
   <title>Hello World!</title>
 </head>
-
+  
+<!-- Header Navigation Menu -->
 <body>
+
+<div class="topnav" id="myTopnav">
+    <a href="#" class="active">Home</a>
+    <a href="#">Research</a>
+    <a href="#">Leadership</a>
+    <a href="#">CV</a
+</div>  
+      
+</div>
+  <div id="header-image-menu"> 
+    <img src="./img/cropped-hurricane-banner_00.jpg"> 
+        <h2 id = "image-text"> 
+           Diamilet (Diamy) Perez-Betancourt
+        </h2> 
+</div>
+
 Hello World!
- 
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+  
 </body>
 </html>
