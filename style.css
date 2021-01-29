@@ -19,6 +19,7 @@ body {
 
 / ******* Center ********/ 
 .aligncenter {
+  display: block;
   text-align: center; 
 }
 
