@@ -11,11 +11,11 @@ h2 {
 p {
     font-size: 16px; 
     line-height: 1.2;
+    font-family: 'Bitter'; 
 }
 
 p.centered {
     text-align: center;
-    font-family: 'Bitter'; 
 }
 
 body {
