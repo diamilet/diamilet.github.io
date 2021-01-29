@@ -18,7 +18,7 @@ body {
 }
 
 / ******* Center ********/ 
-.aligncenter {
+#aligncenter {
   display: block;
   text-align: center; 
 }
