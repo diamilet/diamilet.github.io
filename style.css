@@ -17,6 +17,10 @@ body {
     font-family: 'Helvetica';
 }
 
+/ ******* Center ********/ 
+.aligncenter {
+  text-align: center; 
+}
 
 /******* Navigation Menu *******/
 .topnav {
@@ -98,7 +102,4 @@ body {
                  -1px -1px 0 #BEBEBE;
 } 
 
-/ ******* Center ********/ 
-.aligncenter {
-  text-align: center; 
-}
+
