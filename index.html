@@ -60,7 +60,7 @@
   
 <footer>
   <div id="footer-content">
-    <p>" "</p>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction2()">Last Updated</a>
   </div>
 </footer>
   
@@ -75,6 +75,12 @@ function myFunction() {
 }
 </script>
 
+  <script>
+    function myFunction2() {
+  var x = new Date(document.lastModified);
+  document.getElementById("demo").innerHTML = x;
+}
+ </script>   
   
 </body>
 </html>
