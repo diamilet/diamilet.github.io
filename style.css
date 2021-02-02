@@ -26,6 +26,7 @@ p.centered {
 }
 
 p.centered.small-margin {
+    color: blue;
     margin-bottom: 30px
 }
 
