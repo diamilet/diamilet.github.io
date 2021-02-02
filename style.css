@@ -26,6 +26,10 @@ body {
     background-color: #FFF;
 }
 
+footer {
+    padding: 15px; 
+}
+
 / ******* Center image ********/ 
 .container{width:100%}
 
