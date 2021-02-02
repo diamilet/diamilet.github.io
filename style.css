@@ -10,7 +10,7 @@ h2 {
 
 h3 {
     margin: 0;
-    padding: 4px 1px 1px 1px;
+    padding: 4px 1px 4px 1px;
     font-size:16px;
     font-weight:bold;
     text-align: center;
@@ -24,12 +24,6 @@ p {
 p.centered {
     text-align: center;
 }
-
-p.centered.small-margin {
-    color: blue;
-    margin-bottom: 30px
-}
-
 
 ul {
     font-size: 16px; 
