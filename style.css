@@ -32,12 +32,12 @@ img.centered {
   margin-right: auto;
 }
 
-#left-column {
+.left-column {
    width:50%;
    float:left;
    background-color: red;
 }
-#right-column {
+.right-column {
    width:50%;
    float:right;
    background-color: blue;
