@@ -30,7 +30,10 @@ footer {
 }
 
 / ******* Center image ********/ 
-.container{width:100%}
+.container{
+    width:100%;
+    overflow: auto;
+}
 
 img.centered {
   position: relative;
