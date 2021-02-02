@@ -25,7 +25,7 @@ p.centered {
     text-align: center;
 }
 
-p.centered.no-margin{
+p.centered.no-margin {
     margin: 0;
 }
 
@@ -58,6 +58,7 @@ img.centered {
    box-sizing:border-box;
    background-color: #FFF
 }
+
 .right-column {
    float: left; 
    width:70%;
@@ -104,7 +105,7 @@ img.centered {
 }
 
 .topnav a.active {
-  border-bottom: 3px solid white;
+  border-bottom: 5px solid white;
   color: white;
 }
 
