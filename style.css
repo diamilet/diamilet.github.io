@@ -39,6 +39,7 @@ img.centered {
    background-color: red;
    padding-left: 10px;
    padding-right: 10px;
+   box-sizing:border-box
 }
 .right-column {
    margin: 0 auto;
@@ -47,6 +48,7 @@ img.centered {
    background-color: blue;
    padding-left: 10px;
    padding-right: 10px;
+   box-sizing:border-box
 }
 
 
