@@ -14,6 +14,7 @@ h3 {
     font-size:16px;
     font-weight:bold;
     text-align: center;
+    line-height: 1.2;
 }
 
 p {
@@ -23,6 +24,10 @@ p {
 
 p.centered {
     text-align: center;
+}
+p.centered.nopadding{
+    margin: 0;
+    padding: 0;
 }
 
 ul {
