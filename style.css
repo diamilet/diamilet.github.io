@@ -9,6 +9,7 @@ h2 {
 }
 
 h3 {
+    margin: 0;
     padding: 3px 1px 1px 1px;
     font-size:16px;
     font-weight:bold;
@@ -24,7 +25,6 @@ p.centered {
     text-align: center;
 }
 p.centered.nopadding{
-    margin: 0;
     padding: 1px 1px 3px 1px;
 }
 
