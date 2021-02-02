@@ -33,6 +33,7 @@ img.centered {
 }
 
 .left-column {
+   margin: 0 auto;
    width:30%;
    float:left;
    background-color: red;
@@ -41,6 +42,7 @@ img.centered {
    box-sizing: border-box
 }
 .right-column {
+   margin: 0 auto;
    width:70%;
    float:right;
    background-color: blue;
