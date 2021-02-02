@@ -36,14 +36,12 @@ img.centered {
    float: left; 
    width:30%;
    padding: 10px; 
-   background-color: red;
    box-sizing:border-box
 }
 .right-column {
    float: left; 
    width:70%;
    padding: 10px; 
-   background-color: blue;
    box-sizing:border-box
 }
 
