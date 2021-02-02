@@ -37,8 +37,8 @@ img.centered {
    width:30%;
    float:left;
    background-color: red;
-   margin-left: 10px;
-   margin-right: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
    box-sizing: border-box
 }
 .right-column {
@@ -46,8 +46,8 @@ img.centered {
    width:70%;
    float:right;
    background-color: blue;
-   margin-left: 10px;
-   margin-right: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
    box-sizing: border-box
 }
 
