@@ -25,9 +25,7 @@ body {
     font-family: 'Helvetica';
 }
 
-footer {
-    padding: 15px; 
-}
+footer {width: 100%}
 
 / ******* Center image ********/ 
 .container{
