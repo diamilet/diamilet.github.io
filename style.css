@@ -36,15 +36,11 @@ img.centered {
    width:30%;
    float:left;
    background-color: red;
-   padding-left: 10px;
-   padding-right: 10px
 }
 .right-column {
    width:70%;
    float:right;
    background-color: blue;
-   padding-left: 10px;
-   padding-right: 10px
 }
 
 
