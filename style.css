@@ -25,9 +25,10 @@ p.centered {
     text-align: center;
 }
 
-p.centered.withmargin{
-    margin: 0px 0px 4px 0px;
+p.centered.small-padding {
+    padding: 4px 1px 1px 1px;   
 }
+
 
 ul {
     font-size: 16px; 
