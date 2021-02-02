@@ -26,6 +26,7 @@ p.centered {
 }
 
 p.centered.small-padding {
+    margin: 0;
     padding: 4px 1px 1px 1px;   
 }
 
