@@ -33,24 +33,29 @@ img.centered {
 }
 
 .left-column {
-   margin: 0 auto;
+   float: left; 
    width:30%;
-   float:left;
+   padding: 10px; 
    background-color: red;
-   padding-left: 10px;
-   padding-right: 10px;
    box-sizing:border-box
 }
 .right-column {
-   margin: 0 auto;
+   float: left; 
    width:70%;
-   float:right;
-   background-color: blue;
-   padding-left: 10px;
-   padding-right: 10px;
+   padding: 10px; 
+   background-color: red;
    box-sizing:border-box
 }
 
+@media screen and (max-width: 600px) {
+  .left-column {
+    width: 100%;
+  }
+  
+  .right-column {
+    width: 100%;
+  }
+}
 
 /******* Navigation Menu *******/
 .topnav {
