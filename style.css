@@ -32,7 +32,6 @@ footer {
 / ******* Center image ********/ 
 .container{
     width:100%;
-    overflow: auto;
 }
 
 img.centered {
@@ -55,6 +54,12 @@ img.centered {
    padding: 15px; 
    box-sizing:border-box;
    background-color: #FFF
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 @media screen and (max-width: 800px) {
