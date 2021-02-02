@@ -33,14 +33,14 @@ img.centered {
 }
 
 .left-column {
-   width:50%;
+   width:30%;
    float:left;
    background-color: red;
    margin-left: 10px;
    margin-right: 10px
 }
 .right-column {
-   width:50%;
+   width:60%;
    float:right;
    background-color: blue;
    margin-left: 10px;
