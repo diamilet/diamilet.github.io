@@ -43,7 +43,7 @@ img.centered {
    float: left; 
    width:70%;
    padding: 10px; 
-   background-color: red;
+   background-color: blue;
    box-sizing:border-box
 }
 
