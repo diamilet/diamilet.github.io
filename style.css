@@ -24,9 +24,9 @@ p {
 p.centered {
     text-align: center;
 }
-p.centered.nopadding{
-    margin: 0;
-    padding: 1px 1px 10px 1px;
+
+p.centered.withmargin{
+    margin: 0px 0px 4px 0px;
 }
 
 ul {
