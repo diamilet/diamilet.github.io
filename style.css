@@ -26,7 +26,7 @@ p.centered {
 }
 p.centered.nopadding{
     margin: 0;
-    padding: 1px 1px 4px 1px;
+    padding: 1px 1px 10px 1px;
 }
 
 ul {
