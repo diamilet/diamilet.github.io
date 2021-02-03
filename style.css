@@ -83,11 +83,12 @@ img.centered {
   }
 }
 
-.page-title-container{
-    background-color: #D0D0D0;
+.section-title{
+    background-color: #E8E8E8;
     width: 100%;
     text-align: left; 
-    padding-left: 15px; 
+    padding-left: 5px 15px 5px 15px; 
+    font-size:22px
 }
 
 /******* Navigation Menu *******/
