@@ -99,6 +99,7 @@ img.centered {
 iframe {
     display: block;
     border-style:none;
+    text-align: center;
 }
 /******* Navigation Menu *******/
 .topnav {
