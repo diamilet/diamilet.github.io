@@ -54,9 +54,6 @@ img.centered {
   display: block;
   margin-left: auto; 
   margin-right: auto;
-  width = 320px;
-  height=auto; 
-  max-width = 100%
 }
 
 .left-column {
@@ -81,13 +78,10 @@ img.centered {
   display: table;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .left-column {
     width: 100%;
   }
-  img.centered{
-  width = 300px;
-}
     
   .right-column {
     width: 100%;
