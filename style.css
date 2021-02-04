@@ -78,7 +78,7 @@ img.centered {
   display: table;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
   .left-column {
     width: 100%;
   }
