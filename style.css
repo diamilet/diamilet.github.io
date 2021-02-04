@@ -50,13 +50,23 @@ footer {width: 100%}
 }
 
 img.centered {
-  max-width: 80%;
-  height: auto;
   position: relative;
   display: block;
   margin-left: auto; 
   margin-right: auto;
+  max-width: 80%;
+  height: auto;
 }
+
+iframe.centered{
+  position: relative;
+  display: block;
+  margin-left: auto; 
+  margin-right: auto;
+  max-width: 80%;
+  height: auto;
+}
+
 
 .left-column {
    float: left; 
@@ -87,6 +97,9 @@ img.centered {
   img.centered {
   max-width: 100%;
 }
+iframe.centered {
+  max-width: 100%;
+}
   .right-column {
     width: 100%;
   }
@@ -100,12 +113,7 @@ img.centered {
     font-weight: bold; 
 }
 
-iframe.centered{
-  position: relative;
-  display: block;
-  margin-left: auto; 
-  margin-right: auto;
-}
+
 /******* Navigation Menu *******/
 .topnav {
   overflow: hidden;
