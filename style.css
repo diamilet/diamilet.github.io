@@ -50,7 +50,7 @@ footer {width: 100%}
 }
 
 img.centered {
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
   position: relative;
   display: block;
@@ -84,6 +84,9 @@ img.centered {
   .left-column {
     width: 100%;
   } 
+  img.centered {
+  max-width: 100%;
+}
   .right-column {
     width: 100%;
   }
