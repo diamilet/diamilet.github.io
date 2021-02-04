@@ -31,11 +31,8 @@ p.centered {
 }
 
 p.centered.caption {
-    font-size: 16px; 
-}
-
-p.centered.no-margin {
     margin: 0;
+    font-size: 16px
 }
 
 ul {
