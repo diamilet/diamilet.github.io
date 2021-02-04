@@ -56,7 +56,7 @@ img.centered {
   margin-right: auto;
 }
 
-img.centered.left-column{
+img.centered.lc{
   width = 320px;
   height=auto;  
 }
@@ -88,7 +88,7 @@ img.centered.left-column{
   .left-column {
     width: 100%;
   }
-  img.centered.left-column{
+  img.centered.lc{
   width = 300px;
 }
     
