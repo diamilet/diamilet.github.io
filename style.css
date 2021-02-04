@@ -58,7 +58,6 @@ img.centered {
 
 img.centered.left-column{
   width = 320px;
-  max-width = 100%;
   height=auto;  
 }
 
