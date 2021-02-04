@@ -30,6 +30,10 @@ p.centered {
     text-align: center;
 }
 
+p.centered.caption {
+    font-size: 16px; 
+}
+
 p.centered.no-margin {
     margin: 0;
 }
