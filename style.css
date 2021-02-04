@@ -61,9 +61,12 @@ img.centered {
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
+  margin-left: auto; 
+  margin-right: auto;
   height: 0;
   display: block
 }
+
 .videoWrapper iframe {
   position: absolute;
   top: 0;
