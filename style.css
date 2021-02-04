@@ -30,7 +30,8 @@ p.centered {
     
 }
 
-caption {
+figcaption {
+    font-style: italic;
     text-align: center;
     font-size: 16px;      
 }
