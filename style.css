@@ -56,6 +56,13 @@ img.centered {
   margin-right: auto;
 }
 
+img.centered.left-column{
+  width = 320px;
+  max-width = 100%;
+  height=auto;  
+}
+
+
 .left-column {
    float: left; 
    width:45%;
@@ -82,7 +89,10 @@ img.centered {
   .left-column {
     width: 100%;
   }
-  
+  img.centered.left-column{
+  width = 300px;
+}
+    
   .right-column {
     width: 100%;
   }
