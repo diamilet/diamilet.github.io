@@ -133,7 +133,10 @@ img.centered {
 
 #toc li, #toc ul, #toc ul li{
     color: black;
-    list-style: outside none none !important;
+    list-style:none;
+    background-image:none;
+    background-repeat:none;
+    background-position:0;
 }
 
 /******* Navigation Menu *******/
