@@ -132,6 +132,7 @@ img.centered {
 }
 
 #toc li, #toc ul, #toc ul li{
+    color: black;
     list-style: outside none none !important;
 }
 
