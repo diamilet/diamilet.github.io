@@ -224,19 +224,62 @@ img.centered {
   color: #FFF;
 }
 
-@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
-.panel-title > a:before {
-    float: right !important;
-    font-family: FontAwesome;
-    content:"\f068";
-    padding-right: 5px;
+.hcontainer{
+    width:70%;
+  margin: auto;
 }
-.panel-title > a.collapsed:before {
-    float: right !important;
-    content:"\f067";
+
+
+input {
+    display: none;
 }
-.panel-title > a:hover, 
-.panel-title > a:active, 
-.panel-title > a:focus  {
-    text-decoration:none;
+
+label {
+    display: block;    
+    padding: 8px 22px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #E0E0E0;
+     border: 1px solid #A7A7A7;
+    color: black;
+    transition: ease .5s;
+    position: relative; /* ADDING THIS IS REQUIRED */
 }
+
+label:hover {
+    background: #D3D3D3;
+}
+
+label::after {
+    content: '+';
+    font-size: 22px;
+    font-weight: bold;
+    position: absolute;
+    right: 10px;
+    top: 2px;
+}
+
+input:checked + label::after {
+    content: '-';
+    right: 14px;
+    top: 3px;
+}
+
+.content {
+    background: #E0E0E0;
+    padding: 10px 25px;
+    border: nonel
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input + label + .content {
+    display: none;
+}
+
+input:checked + label + .content {
+    display: block;
+}
+
+
+
