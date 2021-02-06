@@ -237,11 +237,11 @@ input {
 label {
     display: block;    
     padding: 8px 22px;
-    margin: 0 0 1px 0;
+    margin: 5px 0 1px 0;
     cursor: pointer;
-    background: #E0E0E0;
-     border: 1px solid #A7A7A7;
-    color: black;
+    background: #F0F0F0;
+    border: 1px solid #A7A7A7;
+    color: #000;
     transition: ease .5s;
     position: relative; /* ADDING THIS IS REQUIRED */
 }
@@ -266,9 +266,9 @@ input:checked + label::after {
 }
 
 .content {
-    background: #E0E0E0;
+    background: #F0F0F0;
     padding: 10px 25px;
-    border: nonel
+    border: none;
     margin: 0 0 1px 0;
     border-radius: 3px;
 }
