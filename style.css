@@ -71,6 +71,15 @@ img.centered {
   height: auto;
 }
 
+img.logo {
+  position: relative;
+  display: block;
+  margin-left: auto; 
+  margin-right: auto;
+  max-width: 50%;
+  height: auto;
+}
+
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
