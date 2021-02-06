@@ -10,4 +10,4 @@ https://github.com/badges/shields, https://medium.com/@therafamartins/make-your-
 - How to Add Bottom Border to Navigation Links: https://www.w3schools.com/howto/howto_css_navbar_border.asp
 - Creating Intrinsic Ratios for Video - Thierry Koblentz: https://alistapart.com/article/creating-intrinsic-ratios-for-video/
 - Simple table of contents: https://www.tipsandtricks-hq.com/simple-table-of-contents-toc-using-pure-html-and-css-code-9217
-
+- Adding toggle plus and minus signs to a pure CSS accordion: https://supfort.com/add-toggle-plus-minus-css-accordion
