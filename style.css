@@ -105,6 +105,23 @@ img.centered {
    background-color: #FFF
 }
 
+.cvleftcolumn {
+   float: left; 
+   width:30%;
+   padding: 15px; 
+   box-sizing:border-box;
+   background-color: #FFF
+}
+
+.cvrightcolumn {
+   float: left; 
+   width:70%;
+   padding: 5px 30px 5px 15px; 
+   box-sizing:border-box;
+   background-color: #FFF
+}
+
+
 .clearfix::after {
   content: "";
   clear: both;
@@ -115,12 +132,20 @@ img.centered {
   .left-column {
     width: 100%;
   } 
+  .cvleftcolumn {
+      width: 100%;
+      text-align: center;
+    }
   img.centered {
   max-width: 100%;
 }
   .right-column {
     width: 100%;
   }
+  .cvrightcolumn {
+      width: 100%;
+      text-align: center;
+    }
 }
 
 .section-title{
