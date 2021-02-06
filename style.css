@@ -243,7 +243,8 @@ label {
     border: 1px solid #A7A7A7;
     color: #000;
     transition: ease .5s;
-    position: relative; /* ADDING THIS IS REQUIRED */
+    position: relative; 
+    text-align: center;
 }
 
 label:hover {
