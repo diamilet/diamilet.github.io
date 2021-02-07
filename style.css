@@ -267,6 +267,10 @@ img.logo {
   margin: auto;
 }
 
+.hcontainer2{
+    width:100%;
+    margin:auto;
+}
 
 input {
     display: none;
